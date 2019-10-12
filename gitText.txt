@@ -1,1 +1,4 @@
-Hello conflict case
+
+Hello con
+hell
+hi how are 
